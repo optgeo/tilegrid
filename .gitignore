@@ -1,3 +1,7 @@
+tiles.mbtiles*
+.rake_tasks~
+yarn.lock
+
 # Logs
 logs
 *.log
